@@ -512,3 +512,8 @@
 .bg-custom-secundary{
     background: var(--custom-secundary) !important;
 }
+
+.img-sat{
+    width: 100%;
+    height: 210px
+}
